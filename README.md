@@ -1,13 +1,17 @@
 ## I'm myself 🙃
 
-- Graduando em Ciência da Computação na UFPE
+- Undergraduate in Computer Science at UFPE
 <div>
-  <a href="https://cin.ufpe.br/~jpam" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"> </a>
+  <a href="https://cin.ufpe.br/~jpam" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
 </div>
 
 ## Also, Riff Maestro for Metralha 🤘
 <div>
-  <a href="https://www.youtube.com/@metralha_band" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@metralha_band" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
