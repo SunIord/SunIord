@@ -2,7 +2,7 @@
 
 - Undergraduate in Computer Science at UFPE
 <div>
-  <a href="www.linkedin.com/in/joão-pedro-alves-de-moraes-95445a335/" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-alves-de-moraes-95445a335/"target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://cin.ufpe.br/~jpam" target="_blank">
