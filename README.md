@@ -1,14 +1,12 @@
-## I'm myself 🙃
-
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://cin.ufpe.br/~jpam)
-
 ## Also, Riff Maestro for Metralha 🤘
 [![YouTub](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=wh)](https://www.youtube.com/channel/UCp8scR8L-JbGn9I3BDmh9GA)
 
 ## I'm myself 🙃
 
 - Graduando em Ciência da Computação na UFPE
+<div>
   <a href="https://cin.ufpe.br/~jpam" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"> </a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 
@@ -17,7 +15,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SunIord&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunIord&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
+
+## Also, Riff Maestro for Metralha 🤘
+[![YouTub](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=wh)](https://www.youtube.com/channel/UCp8scR8L-JbGn9I3BDmh9GA)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
