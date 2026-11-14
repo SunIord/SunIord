@@ -6,8 +6,7 @@ Computer Science undergraduate at the Federal University of Pernambuco (UFPE)
 
 #
 
-| ![GitHub stats for SunIord](./profile/stats.svg) | ![Most-used languages for SunIord](./profile/top-langs.svg) |
-|:---:|:---:|
+![GitHub stats for SunIord](./profile/stats.svg) | ![Most-used languages for SunIord](./profile/top-langs.svg) 
 
 ![Snake animation eating my GitHub contribution graph](https://raw.githubusercontent.com/SunIord/SunIord/output/github-contribution-grid-snake.svg)
 
